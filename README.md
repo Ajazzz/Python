@@ -30,5 +30,5 @@ Our analysis cover all the basics to advanced EDA and data cleansing methods usi
 Contributing
 We welcome contributions to this project! If you find any issues or have any suggestions, please submit a GitHub issue or pull request.
 
-Contact
+## Contact
 For any questions or comments, please contact the project maintainer at ajazz.md@gmail.com.

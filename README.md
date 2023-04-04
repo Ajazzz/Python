@@ -24,7 +24,7 @@ To run this project, download the repository and open the Jupyter notebook main.
 ## Data
 The dataset used in this project is Data ( Different Datasets), which contains information about different variables. And you can also play with different in-build datasets available in scikit-learn library, but in this project, we will load it from a CSV file.
 
-Results
+## Results
 Our analysis cover all the basics to advanced EDA and data cleansing methods using different python functions.
 
 Contributing

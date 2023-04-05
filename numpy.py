@@ -7,4 +7,5 @@
 # Fourier analysis, random number generation, and more. NumPy also provides functionality for working with various data types and formats, such as CSV, HDF5, 
 # and MATLAB files.
 
-# One of the key features of NumPy is its ability to perform operations on large arrays and datasets quickly and efficiently. NumPy can take advantage of vectorization, which means that it can perform operations on entire arrays at once, rather than iterating through each element one at a time. This can make NumPy code much faster and more efficient than equivalent Python code.
+# One of the key features of NumPy is its ability to perform operations on large arrays and datasets quickly and efficiently. 
+NumPy can take advantage of vectorization, which means that it can perform operations on entire arrays at once, rather than iterating through each element one at a time. This can make NumPy code much faster and more efficient than equivalent Python code.

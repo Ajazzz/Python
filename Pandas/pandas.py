@@ -13,5 +13,10 @@ print(data)
                  
                              
 # Each column is in a data frame is called as a series.
-														 
+
+			     
+#If we want to access a series from a DataFrame, we need to mention the Column name also.
+			     
+print(data['Name'])			     
+			     
 ---------

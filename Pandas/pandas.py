@@ -5,6 +5,9 @@
 # Creating a DataFrame using DataFrame fucntion in pnadas.
 # We can create a data using a lists of dictionary where dictioanry keys can be used as column HEADERS and valus from a list can be used as columns of a DataFrame.
 
+import pandas as pd
+import numpy as np
+import matpoltib.pyplt as plt
 data = pd.DataFrame{ 'Name':['Ajaz', 'Navaz','Mathew' ,'jeff],
                  'age':[22,23,24,26]}
                  

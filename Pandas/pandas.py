@@ -7,7 +7,6 @@
 
 import pandas as pd
 import numpy as np
-import matpoltib.pyplt as plt
-data = pd.DataFrame{ 'Name':['Ajaz', 'Navaz','Mathew' ,'jeff],
-                 'age':[22,23,24,26]}
-                 
+import matplotlib.pyplot as plt
+data = pd.DataFrame{ 'Name':['Ajaz', 'Navaz','Mathew' ,'jeff],'age':[22,23,24,26]}
+print(data)                 

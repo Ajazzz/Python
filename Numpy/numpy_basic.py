@@ -1,6 +1,6 @@
 
 
-# NumPy is a popular Python library that is used for scientific computing and data analysis. 
+'''NumPy is a popular Python library that is used for scientific computing and data analysis.'''
 # It provides support for multidimensional arrays, matrices, and various mathematical functions to manipulate these arrays efficiently. 
 # NumPy is a fundamental library for many other scientific computing libraries in Python, including SciPy, Pandas, Matplotlib, and scikit-learn.
 

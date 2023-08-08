@@ -1,1 +1,1 @@
-'''Basic python'''
+'''Learn the efficient way '''

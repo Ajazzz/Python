@@ -5,4 +5,5 @@ Here are some simple steps to follow:
 
 1) Understading the basics.
 2) OOPs
+3) Data strucutres (List, Dictionary, tuples & Set)
 '''

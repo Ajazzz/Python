@@ -7,3 +7,6 @@ Here are some simple steps to follow:
 2) OOPs
 3) Data strucutres (List, Dictionary, tuples & Set)
 '''
+
+
+''' format string or f-string, that tells python to actually forat stuff in the string in a special wasy'''
